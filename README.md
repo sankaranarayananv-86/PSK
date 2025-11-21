@@ -1,7 +1,8 @@
-# PSK
+
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
+Google colab
 # Program
 ```
 PSK 
@@ -56,8 +57,10 @@ plt.ylabel('Bit Value')
 plt.grid(True)
 plt.legend()
 plt.tight_layout()
-plt.show()
+plt.show()Attach the program
 ```
+
+
 ```
 #QPSK 
 import numpy as np
@@ -138,11 +141,14 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-<img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/1d6a2e96-eadf-4119-8834-d53ab9f2c220" />
 
-<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/497bd549-f4c3-4e04-bb26-b0e5971328f8" />
+# psk
+<img width="726" height="476" alt="Screenshot 2025-10-06 140449" src="https://github.com/user-attachments/assets/ce1f79e6-341a-4c85-af8f-01811c69159b" />
 
+# qpsk
+<img width="724" height="423" alt="Screenshot 2025-10-06 141753" src="https://github.com/user-attachments/assets/55d604f7-feac-46b5-98d6-0d95aedeb0ca" />
 
 # Results
 The experiment of modulation and demodulation of Phase Key Shifting and Quadriphase Key Shifting was successfully executed.
+
 
